@@ -1,7 +1,7 @@
 # Danish Sentiment Scoring App
 
 Try it out live at: https://danish-sentiment-app-407428159583.us-central1.run.app/
-![image](https://github.com/user-attachments/assets/11d9b8af-a4a9-4d4a-a97a-bc1d4628f13e)
+![image](https://github.com/user-attachments/assets/b9b5dbd4-8046-40d7-b467-3751b83a6116)
 
 
 This app performs sentiment analysis on Danish text using the Sentida library. It contains three functionalities: analyze a single text, compare two texts, and plot sentiment scores for longer texts. The app is designed with a user-friendly interface powered by Streamlit.
