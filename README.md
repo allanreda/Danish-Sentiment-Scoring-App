@@ -1,6 +1,6 @@
 # Danish Sentiment Scoring App
 
-Try it out live at: https://dansk-sentiment-scoring-app-dot-sylvan-mode-413619.nw.r.appspot.com/  
+Try it out live at: https://danish-sentiment-app-407428159583.us-central1.run.app/
 ![image](https://github.com/user-attachments/assets/11d9b8af-a4a9-4d4a-a97a-bc1d4628f13e)
 
 
@@ -14,7 +14,7 @@ This app performs sentiment analysis on Danish text using the Sentida library. I
 - [Technologies](#technologies)
 
 ## About the App
-Dansk Sentiment Scoring allows users to:
+Danish Sentiment Scoring allows users to:
 - Analyze sentiment on Danish texts.
 - Sentiment scores range from -1 (negative) to 1 (positive).
 - You can analyze a single text, compare two texts, or visualize sentiment trends over longer texts.
